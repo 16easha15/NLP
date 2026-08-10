@@ -1,0 +1,33 @@
+review,result
+good movie,positive
+good acting,positive
+very good movie,positive
+very good acting,positive
+excellent movie,positive
+excellent acting,positive
+bad movie,negative
+bad acting,negative
+very bad movie,negative
+very bad acting,negative
+terrible movie,negative
+terrible acting,negative
+not good movie,negative
+not good acting,negative
+not bad movie,positive
+not bad acting,positive
+not terrible movie,positive
+not terrible acting,positive
+not excellent movie,negative
+not excellent acting,negative
+really terrible movie,negative
+really terrible acting,negative
+really good movie,positive
+really good acting,positive
+quite terrible movie,negative
+quite terrible acting,negative
+quite good movie,positive
+quite good acting,positive
+not really terrible movie,positive
+not really terrible acting,positive
+not very good movie,negative
+not very good acting,negative

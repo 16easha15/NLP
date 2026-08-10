@@ -1,0 +1,17 @@
+text,label
+allow access,allowed
+allow user,allowed
+allow request,allowed
+permit access,allowed
+permit user,allowed
+permit request,allowed
+deny access,denied
+deny user,denied
+deny request,denied
+reject access,denied
+reject user,denied
+reject request,denied
+do not deny,allowed
+do not reject,allowed
+do not allow,denied
+do not permit,denied
