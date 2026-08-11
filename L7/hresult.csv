@@ -1,0 +1,12 @@
+,review,ps,sentiment
+0,nice hotel good deal !!!,"{'neg': 0.0, 'neu': 0.313, 'pos': 0.687, 'compound': 0.7633}",positive
+1,ok nothing special ,"{'neg': 0.414, 'neu': 0.183, 'pos': 0.403, 'compound': -0.015}",neutral
+2,"great stay, wonderful time","{'neg': 0.0, 'neu': 0.204, 'pos': 0.796, 'compound': 0.8316}",positive
+3,quality hotel excellent staff,"{'neg': 0.0, 'neu': 0.448, 'pos': 0.552, 'compound': 0.5719}",positive
+4,poor staff :(,"{'neg': 0.857, 'neu': 0.143, 'pos': 0.0, 'compound': -0.7184}",negative
+5,horrible customer service,"{'neg': 0.636, 'neu': 0.364, 'pos': 0.0, 'compound': -0.5423}",negative
+6,"great hotel, terrible staff","{'neg': 0.337, 'neu': 0.217, 'pos': 0.446, 'compound': 0.25}",positive
+7,bad air conditioner,"{'neg': 0.636, 'neu': 0.364, 'pos': 0.0, 'compound': -0.5423}",negative
+8,awesome hotel not ok :(,"{'neg': 0.182, 'neu': 0.192, 'pos': 0.626, 'compound': 0.6826}",positive
+9,reasonably priced hotel,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
+10,"hotel, nopes its hospital :<","{'neg': 0.437, 'neu': 0.563, 'pos': 0.0, 'compound': -0.4767}",negative
