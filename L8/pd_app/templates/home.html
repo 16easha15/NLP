@@ -1,0 +1,37 @@
+<html>
+	<head>
+		<title>PD App</title>
+		<style>
+			*{
+				font-size:50px;
+				text-align:center;
+			}
+			body{
+				background-color:azure;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>PD App</h1>
+		<form method = "POST" enctype="multipart/form-data">
+		<label>Select First File</label>
+		<br/>
+		<input type="file"
+			name="f1"
+			required
+		/>
+		<br/><br/>
+		<label>Select Second File</label>
+		<br/>
+		<input type="file"
+			name="f2"
+			required
+		/>
+		<br/><br/>
+		<input type="submit"
+			value="Compare"
+		/>
+		</form>
+		<h2>{{ msg }}</h2>
+	</body>
+</html>

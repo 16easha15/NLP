@@ -1,0 +1,40 @@
+<html>
+	<head>
+		<title>PPD App</title>
+		<style>	
+			*{
+				font-size:50px;
+				text-align:center;
+			}
+			body
+			{
+				background-color:azure;
+			}
+		
+		</style>
+	</head>
+	<h1>PPD App</h1>
+		<form method = "POST" enctype="multipart/form-data">
+		<label>Select First File</label>
+		<br/>
+		<input type="file"
+			name="f1"
+			required
+			accept = ".pdf"
+		/>
+		<br/><br/>
+		<label>Select Second File</label>
+		<br/>
+		<input type="file"
+			name="f2"
+			required
+			accept = ".pdf"
+		/>
+		<br/><br/>
+		<input type="submit"
+			value="Compare"
+		/>
+		</form>
+		<h2>{{ msg }}</h2>
+	
+</html>
