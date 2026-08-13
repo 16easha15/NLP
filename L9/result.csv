@@ -1,0 +1,6 @@
+,id,name,gender,phone,tech_skills,score
+2,3,Chiraj Dixit,Male,9876512345,"Proficient in Python web development with Django, building secure REST APIs, and integrating backend services.",8.164965809277259
+0,1,Ankita Joshi,Female,9876543210,Experienced in developing data-driven applications using Python and implementing machine learning models for business insights.,7.905694150420948
+4,5,Ethan Hunt,Male,9876534567,"Expert in data science using Python, performing deep learning research, and building predictive models from complex datasets.",7.669649888473705
+1,2,Raju Sharma,Male,9876501234,"Skilled in building enterprise-level applications with Java, Spring Boot framework, and creating scalable microservices architectures.",0.0
+3,4,Dhwani Rao,Female,9876523456,"Hands-on experience in creating dynamic web applications using JavaScript, React for front-end, and Node.js for backend APIs.",0.0
